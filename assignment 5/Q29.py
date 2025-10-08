@@ -1,0 +1,1 @@
+# 29. Write a program to check if all elements in a tuple are the same.
